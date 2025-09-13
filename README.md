@@ -47,7 +47,6 @@ return {
 }
 ```
 
-
 You will also need to configure which language parsers you want to have enabled for tree-sitter. "maintained" currently will install 40 languages. "all" will install even more.
 
 ```lua
